@@ -1,0 +1,14 @@
+C:\Users\natey_i6x6qrj\Documents\GitHub\Coding Meeting Nov 23\Coding Meeting Nov 23\bin\Debug\netcoreapp3.1\Coding Meeting Nov 23.exe
+C:\Users\natey_i6x6qrj\Documents\GitHub\Coding Meeting Nov 23\Coding Meeting Nov 23\bin\Debug\netcoreapp3.1\Coding Meeting Nov 23.deps.json
+C:\Users\natey_i6x6qrj\Documents\GitHub\Coding Meeting Nov 23\Coding Meeting Nov 23\bin\Debug\netcoreapp3.1\Coding Meeting Nov 23.runtimeconfig.json
+C:\Users\natey_i6x6qrj\Documents\GitHub\Coding Meeting Nov 23\Coding Meeting Nov 23\bin\Debug\netcoreapp3.1\Coding Meeting Nov 23.runtimeconfig.dev.json
+C:\Users\natey_i6x6qrj\Documents\GitHub\Coding Meeting Nov 23\Coding Meeting Nov 23\bin\Debug\netcoreapp3.1\Coding Meeting Nov 23.dll
+C:\Users\natey_i6x6qrj\Documents\GitHub\Coding Meeting Nov 23\Coding Meeting Nov 23\bin\Debug\netcoreapp3.1\Coding Meeting Nov 23.pdb
+C:\Users\natey_i6x6qrj\Documents\GitHub\Coding Meeting Nov 23\Coding Meeting Nov 23\obj\Debug\netcoreapp3.1\Coding Meeting Nov 23.csproj.AssemblyReference.cache
+C:\Users\natey_i6x6qrj\Documents\GitHub\Coding Meeting Nov 23\Coding Meeting Nov 23\obj\Debug\netcoreapp3.1\Coding Meeting Nov 23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natey_i6x6qrj\Documents\GitHub\Coding Meeting Nov 23\Coding Meeting Nov 23\obj\Debug\netcoreapp3.1\Coding Meeting Nov 23.AssemblyInfoInputs.cache
+C:\Users\natey_i6x6qrj\Documents\GitHub\Coding Meeting Nov 23\Coding Meeting Nov 23\obj\Debug\netcoreapp3.1\Coding Meeting Nov 23.AssemblyInfo.cs
+C:\Users\natey_i6x6qrj\Documents\GitHub\Coding Meeting Nov 23\Coding Meeting Nov 23\obj\Debug\netcoreapp3.1\Coding Meeting Nov 23.csproj.CoreCompileInputs.cache
+C:\Users\natey_i6x6qrj\Documents\GitHub\Coding Meeting Nov 23\Coding Meeting Nov 23\obj\Debug\netcoreapp3.1\Coding Meeting Nov 23.dll
+C:\Users\natey_i6x6qrj\Documents\GitHub\Coding Meeting Nov 23\Coding Meeting Nov 23\obj\Debug\netcoreapp3.1\Coding Meeting Nov 23.pdb
+C:\Users\natey_i6x6qrj\Documents\GitHub\Coding Meeting Nov 23\Coding Meeting Nov 23\obj\Debug\netcoreapp3.1\Coding Meeting Nov 23.genruntimeconfig.cache
